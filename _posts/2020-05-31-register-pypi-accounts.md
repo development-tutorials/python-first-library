@@ -3,7 +3,7 @@ layout: post
 title:  "Register PyPi Accounts"
 date:   2020-05-31 16:11:56 -0700
 categories: python library tutorial
-excerpt: ''
+excerpt: 'Links to testing and publishing repositories, and example `.pypirc` config. file'
 ---
 
 
