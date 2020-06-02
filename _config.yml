@@ -24,6 +24,7 @@ twitter_username: S0_And_S0
 author: S0AndS0
 github_username: development-tutorials
 
+post_order: reverse
 
 # Build settings
 markdown: kramdown
