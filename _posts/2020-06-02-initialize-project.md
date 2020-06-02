@@ -3,7 +3,7 @@ layout: post
 title:  "Initialize Project"
 date:   2020-06-02 16:11:56 -0700
 categories: python library tutorial
-excerpt: ''
+excerpt: 'Instructions for setting up file and directory structure for new library'
 ---
 
 

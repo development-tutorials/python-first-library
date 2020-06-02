@@ -3,7 +3,7 @@ layout: post
 title:  "Setup Environment"
 date:   2020-06-01 16:11:56 -0700
 categories: python library tutorial
-excerpt: ''
+excerpt: 'List of dependencies installed via Pip and links to relevant documentation'
 ---
 
 
