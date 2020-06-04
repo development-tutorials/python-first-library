@@ -3,7 +3,7 @@ layout: post
 title:  "Package Setup"
 date:   2020-06-04 16:11:56 -0700
 categories: python library tutorial
-excerpt: ''
+excerpt: 'Example `setup.py` script and related configuration files'
 ---
 
 
