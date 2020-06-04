@@ -71,7 +71,7 @@ touch python_first_library/cli/__init__.py
 
 
 ## [#][heading__notes_about_files] Notes about files
-[heading__notes_about_files]: #-notes-about-files "List of quick descriptions of what files are used for"
+[heading__notes_about_files]: #-notes-about-files "Quick descriptions list of what files are used for"
 
 
 - `.gitignore` defines directory and file patterns that Git should ignore from version tracking
