@@ -104,7 +104,7 @@ setup(
 
 
 ### [#][heading__notes_about_setup_py] Notes about `setup.py`
-[heading__notes_about_setup_py]: #-notes-about-setuppy ""
+[heading__notes_about_setup_py]: #-notes-about-setuppy "Quick descriptions list of parameters for `setup` method"
 
 
 - `name`, the name of your project this value is pre-pended within project archive files under the `dist/` directory
