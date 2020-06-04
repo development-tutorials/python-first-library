@@ -16,8 +16,8 @@ cd ~/git/hub/development-tutorials/python-first-library
 ```
 
 
-## Option One
-[Option One]: #option-two "Make a simple ReadMe file"
+## [#][Option One] Option One
+[Option One]: #-option-two "Make a simple ReadMe file"
 
 
 Make a simple ReadMe file...
@@ -108,8 +108,8 @@ This project is released under the [AGPL version 3](/LICENSE) license
 ------
 
 
-## Option Two
-[Option Two]: #option-two "Initialize ReadMe file via template"
+## [#][Option Two] Option Two
+[Option Two]: #-option-two "Initialize ReadMe file via template"
 
 
 The following examples make use of [GitHub -- `github-utilities/make-readme`](https://github.com/github-utilities/make-readme) project which builds ReadMe files from MustacheJS templates.

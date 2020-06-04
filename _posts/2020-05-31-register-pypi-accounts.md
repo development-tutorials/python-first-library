@@ -8,8 +8,8 @@ excerpt: 'Links to testing and publishing repositories, and example `.pypirc` co
 
 
 
-## Testing Repository
-[heading__testing_repository]: #testing-repository "Python testing repository links"
+## [#][heading__testing_repository] Testing Repository
+[heading__testing_repository]: #-testing-repository "Python testing repository links"
 
 
 - [`test.pypi.org` -- Register](https://test.pypi.org/account/register/)
@@ -38,8 +38,8 @@ python3 -m pip install\
 ------
 
 
-## Publish Repository
-[heading__publish_repository]: #publish-repository "Python publishing repository links"
+## [#][heading__publish_repository] Publish Repository
+[heading__publish_repository]: #-publish-repository "Python publishing repository links"
 
 
 - [`pypi.org` -- Register](https://pypi.org/account/register/)
@@ -55,8 +55,8 @@ Please do **not** skip setting up 2 Factor Authentication, because you'll be pub
 ------
 
 
-## Example `~/.pypirc`
-[heading__example_pypirc]: #example-~pypirc "Example pypirc configuraiton file"
+## [#][heading__example_pypirc] Example `~/.pypirc`
+[heading__example_pypirc]: #-example-~pypirc "Example pypirc configuraiton file"
 
 
 ```

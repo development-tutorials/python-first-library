@@ -19,8 +19,8 @@ cd ~/git/hub/development-tutorials/python-first-library
 ------
 
 
-## `MANIFEST.in`
-[heading__manifest_in]: #manifestin "Defines paths that should be explicitly included or excluded"
+## [#][heading__manifest_in] `MANIFEST.in`
+[heading__manifest_in]: #-manifestin "Defines paths that should be explicitly included or excluded"
 
 
 The `MANIFEST.in` configuration file is where project files that are not automatically detected can either be included, or excluded, within build process...
@@ -37,8 +37,8 @@ include .github/README.md
 ------
 
 
-## `setup.cfg`
-[heading__setup_cfg]: #setupcfg "Defines metadata and other project properties"
+## [#][heading__setup_cfg] `setup.cfg`
+[heading__setup_cfg]: #-setupcfg "Defines metadata and other project properties"
 
 
 The `setup.cfg` configuration file is able to define much more than `metadata`, and the official [Python Docs -- Writing the `setup.cfg` Configuration File](https://docs.python.org/3/distutils/configfile.html) is worthy of review...
@@ -56,8 +56,8 @@ description-file = .github/README.md
 ------
 
 
-## `setup.py`
-[heading__setup_py]: #setuppy "Script that `pip install package-name` command calls"
+## [#][heading__setup_py] `setup.py`
+[heading__setup_py]: #-setuppy "Script that `pip install package-name` command calls"
 
 
 The `setup.py` script is called by `setuptools`
@@ -103,8 +103,8 @@ setup(
 ```
 
 
-### Notes about `setup.py`
-[heading__notes_about_setup_py]: #notes-about-setuppy ""
+### [#][heading__notes_about_setup_py] Notes about `setup.py`
+[heading__notes_about_setup_py]: #-notes-about-setuppy ""
 
 
 - `name`, the name of your project this value is pre-pended within project archive files under the `dist/` directory
