@@ -1,0 +1,8 @@
+## Python compiled/cached
+__pycache__
+*.pyc
+
+## Python setuptools
+build
+dist
+python_first_library.egg-info
