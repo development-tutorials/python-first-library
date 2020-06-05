@@ -75,7 +75,7 @@ with open(".github/README.md", "r") as fh:
 
 
 setup(
-    name = 'watch_path',
+    name = 'python_first_library',
     version = '0.0.1',
     author = '<account_name>',
     author_email = '<account_name>@<domain>.<tld>',
