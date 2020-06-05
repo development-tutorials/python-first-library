@@ -17,7 +17,7 @@ This tutorial is intended for those that wish to publish a library or libraries 
 Python Language source may be downloaded from [`python.org`](https://www.python.org/downloads/) for most Operating Systems, alternatively most Linux distributions have python available via package manager...
 
 
-```Bash
+```bash
 ## Arch inspired distributions
 sudo packman -S python3 python3-pip
 
@@ -38,7 +38,7 @@ Most, if not all, of the command-line examples will be for a Bash (Born Again SH
 - Long command-line examples are split using a backslash (`\`) to escape new-lines, and lines that follow are indented by two spaces (`  `)...
 
 
-```Bash
+```bash
 executable-name --param-one "first modifier"\
   --param-two "second modifier"\
   --flag-one\

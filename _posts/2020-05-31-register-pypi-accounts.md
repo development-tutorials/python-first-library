@@ -25,7 +25,7 @@ Utilizing the testing repository is a good idea, because deleting and/or editing
 Testing Repository installation syntax adds `--index-url https://test.pypi.org/simple/` and _`--no-deps <Package_Name>-<Account_Name>`_ options, eg...
 
 
-```Bash
+```bash
 python3 -m pip install\
   --index-url https://test.pypi.org/simple/\
   --no-deps python-first-library-S0AndS0
