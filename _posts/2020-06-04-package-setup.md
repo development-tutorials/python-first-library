@@ -63,7 +63,7 @@ description-file = .github/README.md
 The `setup.py` script is called by `setuptools`
 
 
-```Python
+```python
 #!/usr/bin/env python3
 
 

@@ -23,7 +23,7 @@ cd ~/git/hub/development-tutorials/python-first-library
 [python_first_library/__init__.py]: #python_first_library__init__py ""
 
 
-```Python
+```python
 #!/usr/bin/env python3
 
 
