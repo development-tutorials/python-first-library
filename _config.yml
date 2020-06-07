@@ -18,7 +18,7 @@ title: Python First Library
 description: >- # this means to ignore newlines until "baseurl:"
   Tutorial for publishing Python libraries, and example library for use within
   other Python projects.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "python-first-library" # the subpath of your site, e.g. /blog
 url: 'https://development-tutorials.github.io'
 twitter_username: S0_And_S0
 author: S0AndS0
